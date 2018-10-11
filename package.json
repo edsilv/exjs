@@ -1,5 +1,5 @@
 {
-  "name": "exjs",
+  "name": "@edsilv/exjs",
   "version": "0.5.1",
   "description": "Extension library",
   "main": "Gruntfile.js",
